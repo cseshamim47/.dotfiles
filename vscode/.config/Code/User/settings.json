@@ -1,0 +1,27 @@
+{
+    "window.zoomLevel": 0,
+    "files.autoSave": "afterDelay",
+    "editor.mouseWheelZoom": true,
+    "editor.fontLigatures": null,
+    "editor.fontWeight": 600,
+    "code-runner.preserveFocus": false,
+
+    "multiCommand.commands": [
+        {
+            "command": "runCode",
+            "sequence": [
+                "code-runner.run",
+                "workbench.action.terminal.focus",
+            ]
+        }
+    ],
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "code-runner.runInTerminal": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "C_Cpp.updateChannel": "Insiders",
+    "sync.gist": "3650dc297e54de27ccf55845c258e65f"
+    
+}
+
