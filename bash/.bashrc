@@ -116,5 +116,5 @@ if ! shopt -oq posix; then
   fi
 fi
 PS1="\n
-s#   "
+#   "
 
