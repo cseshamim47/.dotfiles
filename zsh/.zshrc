@@ -105,3 +105,4 @@ echo "
 "
 precmd() { print "" }
 
+source /home/cseshamim47/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
